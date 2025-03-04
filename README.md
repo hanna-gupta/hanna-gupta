@@ -1,3 +1,6 @@
+
+## Hi there I am Hanna Gupta👋
+
 # 🚀 About Me  
 Hi! I'm a **Data Science & AI Enthusiast** passionate about building intelligent systems that solve real-world problems. With a strong background in **Python, SQL, NoSQL, and Generative AI**, I specialize in **Deep Learning, NLP, Retrieval-Augmented Generation (RAG), and AI agent frameworks**.  
 
@@ -13,19 +16,3 @@ Hi! I'm a **Data Science & AI Enthusiast** passionate about building intelligent
 🌱 Always learning & experimenting with **cutting-edge AI frameworks**!  
 
 🚀 Open to collaborations on AI, NLP, and ML projects!  
-## Hi there 👋
-
-<!--
-**hanna-gupta/hanna-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
