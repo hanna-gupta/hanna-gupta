@@ -1,7 +1,7 @@
 
 ## Hi there I am Hanna Gupta👋
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/hanna-gupta/hanna-gupta/main/cool-coder.webp](https://github.com/hanna-gupta/hanna-gupta/blob/main/DALL%C2%B7E%202025-03-04%2014.40.29%20-%20A%20futuristic%20female%20coder%20sitting%20at%20a%20sleek%20workstation%20with%20multiple%20holographic%20screens%20displaying%20code.%20She%20wears%20a%20stylish%20hoodie%20with%20neon%20accen.webp)" width="400">
+  <img src="https://github.com/hanna-gupta/hanna-gupta/blob/main/DALL%C2%B7E%202025-03-04%2014.40.29%20-%20A%20futuristic%20female%20coder%20sitting%20at%20a%20sleek%20workstation%20with%20multiple%20holographic%20screens%20displaying%20code.%20She%20wears%20a%20stylish%20hoodie%20with%20neon%20accen.webp" width="400">
 </p>
 
 
