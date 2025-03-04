@@ -1,6 +1,6 @@
 
 ## Hi there I am Hanna Gupta👋
-
+![Cool Female Coder](DALL·E 2025-03-04 14.40.29 - A futuristic female coder sitting at a sleek workstation with multiple holographic screens displaying code. She wears a stylish hoodie with neon accen.webp)
 # 🚀 About Me  
 Hi! I'm a **Data Science & AI Enthusiast** passionate about building intelligent systems that solve real-world problems. With a strong background in **Python, SQL, NoSQL, and Generative AI**, I specialize in **Deep Learning, NLP, Retrieval-Augmented Generation (RAG), and AI agent frameworks**.  
 
