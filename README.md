@@ -1,6 +1,8 @@
 
 ## Hi there I am Hanna Gupta👋
-![Cool Female Coder](https://raw.githubusercontent.com/hanna-gupta/hanna-gupta/main/cool-coder.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hanna-gupta/hanna-gupta/main/cool-coder.webp" width="400">
+</p>
 
 
 # 🚀 About Me  
